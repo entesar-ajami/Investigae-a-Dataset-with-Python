@@ -1,0 +1,2 @@
+# Investigae-a-Dataset-with-Python
+The aim of this project is to analyse patients show up for appointments with a dataset selected from Kaggle. The analyses explored the show up/no show up of patients to their medical appointments. The data has collected information about how patients are showing up for scheduled appointments.  In this dataset, we will be looking at the percentages of showing up for appointments, the factors that are impacting the showup from the gender and age prospective.
